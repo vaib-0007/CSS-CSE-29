@@ -1,0 +1,23 @@
+
+p{
+    color: red;
+    
+}
+.abc{
+    color:darkkhaki;
+}
+div p{
+    color: darkolivegreen;
+    background-color: yellow; 
+    height: inherit;
+    width: inherit;
+    
+}
+div{
+    align-content: center;
+    height: 200px;
+    width: 200px;
+}
+#uj{
+    color: darkmagenta;
+}
